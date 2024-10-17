@@ -48,4 +48,12 @@ button {
     cursor: pointer;
 }
 
-r
+button:hover {
+    background-color: #45a049;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
