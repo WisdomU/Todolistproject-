@@ -26,5 +26,8 @@ h1 {
 }
 
 
-
+.input-container {
+    display: flex;
+    justify-content: space-between;
+}
 
