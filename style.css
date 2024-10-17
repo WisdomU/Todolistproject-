@@ -57,3 +57,20 @@ ul {
     padding: 0;
 }
 
+li {
+    padding: 10px;
+    margin: 5px 0;
+    background: #f9f9f9;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+li:hover {
+    background: #e2e2e2;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
